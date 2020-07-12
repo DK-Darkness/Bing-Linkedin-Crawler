@@ -1,1 +1,2 @@
 # Bing-Linkedin-Crawler
+通过bing与领英爬取公司员工的姓名并进行组合尝试，输出待测试的可能的邮箱地址
