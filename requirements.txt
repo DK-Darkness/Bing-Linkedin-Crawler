@@ -1,4 +1,4 @@
 requests==2.23.0
-lxml==4.5.1
+lxml==4.6.3
 pypinyin==0.38.1
 beautifulsoup4==4.9.1
